@@ -1,0 +1,23 @@
+#body {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: whitesmoke;
+
+}
+#header {
+    height: 100px;
+    background-color: forestgreen;
+    color: whitesmoke;
+    padding: 4px;
+}
+#title {
+    font-size: 40px;
+}
+
+#signup_button {
+    background-color: darkblue;
+    width: 70px;
+    text-align: center;
+    padding: 4px;
+    border-radius: 4px;
+    float: right;
+}
