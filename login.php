@@ -8,7 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="style.css">
     </head>
-    <body>
+    <body id="body">
         <div id="header">
             <div id=title>fakebuk</div>
             <div id=signup_button>Signup</div>
