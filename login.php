@@ -10,10 +10,16 @@
     </head>
     <body id="body">
         <div id="header">
-            <div id=title>fakebuk</div>
-            <div id=signup_button>Signup</div>
+            <div id="title">fakebuk</div>
+            <div id="signup_button">Signup</div>
         </div>
-        
+        <div id="login_window">
+            <p>Login to fakebuk</p>
+            <input type="text" id="text" placeholder="Email"><br><br>
+            <input type="password" id="text" placeholder="Password"><br><br>
+            <input type="submit" id="button" value="Log In"><br><br>
+
+        </div>
         <script src="" async defer></script>
     </body>
 </html>
