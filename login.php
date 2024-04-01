@@ -10,7 +10,7 @@
     </head>
     <body id="body">
         <div id="header">
-            <div id="title">fakebuk</div>
+            <div id="title">fakebuk  |  Log In</div>
             <div id="signup_button">Signup</div>
         </div>
         <div id="login_window">
