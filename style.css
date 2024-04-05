@@ -111,6 +111,9 @@
 
 #friends {
     clear: both;
+    font-size: 12px;
+    font-weight: bold;
+    color: black;
 
 }
 #friends_img {
@@ -118,4 +121,43 @@
     float: left;
     margin: 8px;
 
+}
+
+#timeline { 
+    border: solid thin darkgray; 
+    padding: 10px;
+}
+
+#textarea1 {
+    width: 100%;
+    height: 60px;
+    border: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+
+#post_button {
+    float: right;
+    background-color: darkgreen;
+    border: none;
+    color: whitesmoke;
+    padding: 4px;
+    font-size: 14px;
+    border-radius: 2px;
+    width: 50px;
+}
+
+#posts_bar {
+    width: auto;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+
+#post {
+    width: 100%;
+    padding: 4px;
+    font-size: 13px;
+    display: flex;
+    margin-bottom: 20px;
 }

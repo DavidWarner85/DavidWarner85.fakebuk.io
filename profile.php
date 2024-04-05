@@ -64,7 +64,40 @@
 
 
                 <!--Timeline Area-->
-                <div style="flex: 2.5;"></div>
+                <div id="timeline" style="flex: 2.5; padding: 20px; padding-right: 0px;">
+                    <div style="border: solid thin #aaa; padding: 10px; background-color: whitesmoke;">
+                        <textarea id="textarea1" placeholder="What's on your mind?"></textarea>
+                        <input id="post_button" type="submit" value="Post">
+                        <br>
+                    </div>
+                   
+                   <div id="posts_bar">
+                        <div id="post">
+                            <div>
+                                <img src="img/Naomi.jpg" style="width: 75px; margin-right: 4px;">
+                            </div>
+                            <div>
+                                <div style="font-weight: bold; color: #405d9b;">Naomi</div>
+                                This is some text and it's really interesting stuff. blah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blah
+                                <br><br>
+                                <a href="">Like</a> . <a href="">Comment</a> . <span style="color:gray;">April 4th 2024</span>
+                            </div>
+                        </div>
+                        <div id="post">
+                            <div>
+                                <img src="img/Duncan.jpg" style="width: 75px; margin-right: 4px;">
+                            </div>
+                            <div>
+                                <div style="font-weight: bold; color: #405d9b;">Duncan</div>
+                                This is some text and it's really interesting stuff. blah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blah
+                                <br><br>
+                                <a href="">Like</a> . <a href="">Comment</a> . <span style="color:gray;">April 4th 2024</span>
+                            </div>
+                        </div>
+                   </div>
+                </div>
+                
+
             </div>
         </div>
 
